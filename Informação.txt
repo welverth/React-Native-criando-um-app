@@ -1,0 +1,3 @@
+Para rodar o arquivo precisa abrir o terminal no Visual Studio Code e digita npm start
+
+podendo abrir no navegador ou instalado o Android Studio, cria o Emulador e abre por ele.
